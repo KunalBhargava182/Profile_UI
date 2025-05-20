@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+
+    <!-- Strings used in the Profile UI -->
+    <string name="back">Back</string>
+    <string name="support_icon">Support Icon</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="car_icon">Car Icon</string>
+    <string name="arrow_right">Arrow Right</string>
+    <string name="credit_score_icon">Credit Score Icon</string>
+    <string name="rupee_icon">Rupee Icon</string>
+    <string name="bank_icon">Bank Icon</string>
+</resources>
